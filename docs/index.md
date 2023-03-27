@@ -10,7 +10,7 @@
   <body>
     <header>
       <div class="banner">
-        <img src="banner-image.jpg" alt="Banner Image">
+        <img src="img/zohar.jpeg" alt="Banner Image">
       </div>
       <nav>
         <ul>
