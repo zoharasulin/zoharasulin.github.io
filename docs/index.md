@@ -9,7 +9,7 @@ I am currently building my academic page, also using github pages. I used a them
 
 ## Some more info:
 * [my profile - dev.to](https://dev.to/zoharasulin)
-* [my CV](/cv)
+* [my CV](cv)
 
 ## My Blog posts in [dev.to](https://dev.to/)
 * [Post #1](https://dev.to/zoharasulin/assignment-1-version-control-journal-slack-3924)
