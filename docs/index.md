@@ -14,4 +14,4 @@ I am currently building my academic page, also using github pages. I used a them
 * [Post #2](https://dev.to/zoharasulin/osdc-2023-second-assignment-5fg5)
 
 
-![](img/zohar.jpeg)
+(zohar.jpeg)
