@@ -3,7 +3,9 @@
 Name: Zohar Asulin
 Phone: +972-(0)50-629-0745
 E-mail : peretzohar@gmail.com
+
 [Social](https://www.linkedin.com/in/zohar-asulin-389544b2/)
+
 [GitHub](https://github.com/zoharasulin)
 
 ### About Me
