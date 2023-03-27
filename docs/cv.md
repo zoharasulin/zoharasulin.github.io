@@ -1,9 +1,11 @@
 # __Zohar Asulin-cv__
+
 Name: Zohar Asulin
 Phone: +972-(0)50-629-0745
 E-mail : peretzohar@gmail.com
 [Social](https://www.linkedin.com/in/zohar-asulin-389544b2/)
 [GitHub](https://github.com/zoharasulin)
+
 ### About Me
 Data developer and analyst with high analytical skills, creative thinking, self-taught, ability to work under pressure and high work ethic.
 
@@ -18,8 +20,8 @@ control.
 * 2022 - currently	M.Sc. in Software Engineering |Azrieli College of Engineering – Jerusalem.
 
 ### Hobbies
-- Cooking: mostly caucasian dishes with some italian flavor & barbecue.
 - solve Sudoku
+- Cooking: Cooking Italian dairy food
 - Build puzzles with my kids
 
 ### Languages:
